@@ -1,0 +1,28 @@
+let tienda = new Tienda();
+let carrito = new Carrito();
+
+tienda.agregarProducto(new Producto(1, 'Camisa Casual Azul', 4500, 'Camisa casual de tela suave, color azul oscuro.', 'Camisas'));
+tienda.agregarProducto(new Producto(2, 'Jean Chupín', 6000, 'Jean chupín de color azul índigo.', 'Pantalones'));
+tienda.agregarProducto(new Producto(3, 'Zapatillas Deportivas', 7500, 'Zapatillas deportivas aerodinámicas.', 'Zapatos'));
+tienda.agregarProducto(new Producto(4, 'Reloj Elegante', 3500, 'Reloj de acero inoxidable con diseño minimalista.', 'Accesorios'));
+tienda.agregarProducto(new Producto(5, 'Campera de Cuero', 8000, 'Campera de cuero resistente y elegante.', 'Camperas'));
+tienda.agregarProducto(new Producto(6, 'Camisa Negra Formal', 5000, 'Camisa formal de color negro, ideal para eventos.', 'Camisas'));
+tienda.agregarProducto(new Producto(7, 'Pantalón de Vestir', 6500, 'Pantalón de vestir negro, perfecto para ocasiones formales.', 'Pantalones'));
+tienda.agregarProducto(new Producto(8, 'Zapatos de Cuero', 9000, 'Zapatos de cuero negro, excelentes para trabajo o eventos.', 'Zapatos'));
+tienda.agregarProducto(new Producto(9, 'Cinturón de Cuero', 2500, 'Cinturón de cuero marrón con hebilla metálica.', 'Accesorios'));
+tienda.agregarProducto(new Producto(10, 'Campera de Jean', 7000, 'Campera de jean azul, estilo clásico.', 'Camperas'));
+tienda.agregarProducto(new Producto(11, 'Camisa a Rayas', 4000, 'Camisa con patrón a rayas, estilo casual.', 'Camisas'));
+tienda.agregarProducto(new Producto(12, 'Jean Clásico', 5500, 'Jean de corte clásico, color azul.', 'Pantalones'));
+tienda.agregarProducto(new Producto(13, 'Botas de Montaña', 8000, 'Botas resistentes para actividades al aire libre.', 'Zapatos'));
+tienda.agregarProducto(new Producto(14, 'Gorra de Algodón', 1500, 'Gorra de algodón, ajustable, color negro.', 'Accesorios'));
+tienda.agregarProducto(new Producto(15, 'Campera Impermeable', 8500, 'Campera impermeable, ideal para días lluviosos.', 'Camperas'));
+tienda.agregarProducto(new Producto(16, 'Camisa de Algodón', 3500, 'Camisa de algodón, color blanco, para cualquier ocasión.', 'Camisas'));
+tienda.agregarProducto(new Producto(17, 'Pantalón Jogger', 5000, 'Pantalón jogger, cómodo para el día a día.', 'Pantalones'));
+tienda.agregarProducto(new Producto(18, 'Zapatillas Casuales', 7000, 'Zapatillas casuales, de diseño moderno.', 'Zapatos'));
+tienda.agregarProducto(new Producto(19, 'Pulsera de Cuero', 2000, 'Pulsera de cuero, con diseño trenzado.', 'Accesorios'));
+tienda.agregarProducto(new Producto(20, 'Campera Liviana', 6000, 'Campera liviana, perfecta para el clima de entretiempo.', 'Camperas'));
+tienda.agregarProducto(new Producto(21, 'Camisa de Vestir', 5500, 'Camisa de vestir, color azul marino.', 'Camisas'));
+tienda.agregarProducto(new Producto(22, 'Pantalón Cargo', 7000, 'Pantalón cargo, con múltiples bolsillos.', 'Pantalones'));
+tienda.agregarProducto(new Producto(23, 'Sandalias de Cuero', 4500, 'Sandalias de cuero, ideales para el verano.', 'Zapatos'));
+tienda.agregarProducto(new Producto(24, 'Mochila de Lona', 3000, 'Mochila de lona, resistente y con gran capacidad.', 'Accesorios'));
+tienda.agregarProducto(new Producto(25, 'Campera de Vellón', 9000, 'Campera de vellón, abrigada para el invierno.', 'Camperas'));
